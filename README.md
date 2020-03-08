@@ -20,3 +20,9 @@ After performing detailed analysis of the Stock data for the year 2017 and 2018,
 The year of 2018 was worse for the green energry stocks, most of the stocks in 2018 had a very low yearly return. DQ has a yearly return of -62.6%. Only ENPH and RUN did well with a yearly return of 81.9% and 84.0% respectively.
 
 ![Line Chart for 2018 stock analysis](./images/Linechart2018.png)
+
+## Summary 
+
+Steve will have to explain the results to his parents and let them know that DQO had a very low yearly return in 2018 where as the yearly return for DQO was quite impressed in 2017. 
+
+Recent data is missing because of which it is hard to tell if patterns in the data are still the same in todays time or not. Steve will need to run the same analysis on more stocks data to know where should his parents be investing so that they have higher chances of making money. 
