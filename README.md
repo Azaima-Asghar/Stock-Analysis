@@ -16,13 +16,11 @@ To complete this task an extension to excel build to automate tasks - VBA is use
 After performing detailed analysis of the Stock data for the year 2017 and 2018, we can see DQ did really well in 2017 with a yearly return of 199.4%. All the other green energy stocks did well in 2017 other than TERP, which has a yearly return of -7.2%.The following line chart shows these results.  
 
  <br/><br/>
- <br/><br/>
 
 ![Line Chart for 2017 stock analysis](./images/line_chart_2017.png) 
 
 The year of 2018 was worse for the green energry stocks, most of the stocks in 2018 had a very low yearly return. DQ has a yearly return of -62.6%. Only ENPH and RUN did well with a yearly return of 81.9% and 84.0% respectively.  
 
-<br/><br/>
 <br/><br/>
 
 ![Line Chart for 2018 stock analysis](./images/Linechart2018.png)
